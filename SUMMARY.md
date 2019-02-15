@@ -4,10 +4,10 @@
 
 * [My Awesome API](README.md)
 
-## Tibet
+## 西藏
 
-* [Defining Methods](./chapter/Tibet.md)
+* [西藏专辑](./chapter/Tibet.md)
 
-## sichuan
+## 四川
 
-* [Defining Methods](./chapter/sichuan.md)
+* [四川专辑](./chapter/sichuan.md)
