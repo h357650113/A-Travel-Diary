@@ -10,4 +10,4 @@
 
 ## 四川
 
-* [四川专辑](./chapter/sichuan.md)
+* [四川专辑](./chapter/sichuan.md =400*400)
