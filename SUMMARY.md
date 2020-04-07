@@ -1,5 +1,6 @@
-# 目录
+# Table of contents
 
-* [西藏专辑](./chapter/Tibet.md)
+* [Introduction](README.md)
+* [西藏专辑](tibet.md)
+* [四川专辑](sichuan.md)
 
-* [四川专辑](./chapter/sichuan.md)
