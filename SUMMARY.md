@@ -8,4 +8,6 @@
 * [安徽](an-hui.md)
 * [北京](bei-jing.md)
 * [上海](shang-hai.md)
+* [四海](si-hai.md)
+* [五岳](wu-yue.md)
 
