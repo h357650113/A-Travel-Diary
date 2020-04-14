@@ -2,11 +2,11 @@
 
 羊卓雍湖
 
-![&#x7F8A;&#x5353;&#x96CD;&#x6E56; - 2&#x6708;&#x4EFD;&#xFF0C;&#x78B0;&#x5DE7;&#x521A;&#x521A;&#x4E0B;&#x8FC7;&#x4E00;&#x573A;&#x96EA; - k5](.gitbook/assets/be6ca511-b3a5-4f39-81d4-f7befdc0fd8e.jpeg)
+![&#x7F8A;&#x5353;&#x96CD;&#x6E56; - 2&#x6708;&#x4EFD;&#xFF0C;&#x78B0;&#x5DE7;&#x521A;&#x521A;&#x4E0B;&#x8FC7;&#x4E00;&#x573A;&#x96EA; - k5 - da18-55 cpl](.gitbook/assets/be6ca511-b3a5-4f39-81d4-f7befdc0fd8e.jpeg)
 
 四川甘孜地区 - 冰河世纪石头遗址
 
-![317 &#x5DDD;&#x85CF;&#x516C;&#x8DEF; &#x51B0;&#x6CB3;&#x77F3;&#x5934;&#x642C;&#x8FD0;&#x9057;&#x5740; - k5](.gitbook/assets/3ab00846-831f-4312-8a10-2266a0450eeb_1_201_a.jpeg)
+![317 &#x5DDD;&#x85CF;&#x516C;&#x8DEF; &#x51B0;&#x6CB3;&#x77F3;&#x5934;&#x642C;&#x8FD0;&#x9057;&#x5740; - k5 - fa31](.gitbook/assets/3ab00846-831f-4312-8a10-2266a0450eeb_1_201_a.jpeg)
 
 
 
