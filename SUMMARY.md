@@ -1,6 +1,6 @@
 # Table of contents
 
-* [简介](README.md)
+* [序](README.md)
 * [西藏](tibet.md)
 * [青海](sichuan.md)
 * [泰国](tai-guo.md)
