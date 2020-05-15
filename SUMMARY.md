@@ -10,6 +10,7 @@
 * [北京](bei-jing.md)
 * [上海](shang-hai.md)
 * [越南](yue-nan.md)
+* [三山](san-shan.md)
 * [四海](si-hai.md)
 * [五岳](wu-yue.md)
 
